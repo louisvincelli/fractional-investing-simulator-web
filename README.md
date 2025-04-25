@@ -1,4 +1,4 @@
-# fractional-investing-simulator-web
+# Fractional Investing Simulator
  A Fractional Investing Simulator web application where users can experience and learn how fractional shares work while tracking their ROI over time using a fake wallet.
 
 # Tech Stack
